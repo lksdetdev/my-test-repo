@@ -1,2 +1,3 @@
 new line
 That is new change in this file!
+Это изменение я собираюсь отменить
