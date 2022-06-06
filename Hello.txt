@@ -1,3 +1,3 @@
-new line
+﻿new line
 That is new change in this file!
-Это новое изменение сегодняшнее
+А это проверка кодировки
